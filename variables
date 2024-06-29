@@ -1,4 +1,5 @@
-PADAVAN_REPO="https://gitlab.com/hadzhioglu/padavan-ng.git"
+#PADAVAN_REPO="https://gitlab.com/hadzhioglu/padavan-ng.git"
+PADAVAN_REPO="https://gitlab.com/Alex500317/padavan-ng-4-c.git"
 PADAVAN_BRANCH="master"
 PADAVAN_COMMIT="HEAD"
 PADAVAN_TOOLCHAIN_URL="https://gitlab.com/api/v4/projects/hadzhioglu%2Fpadavan-ng/packages/generic/toolchain/latest/toolchain.tzst"
@@ -11,7 +12,7 @@ PADAVAN_THEMES=(
 #  blue
 #  blue2
 #  grey
-#  grey2
+  grey2
 #  white
 #  yellow
 )
